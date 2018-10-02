@@ -1,6 +1,3 @@
-/**
- * Created by yossatronza on 6/3/17.
- */
 var num1= ""
 var num2= ""
 var num3= ""
